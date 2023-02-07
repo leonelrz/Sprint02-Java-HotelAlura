@@ -5,14 +5,17 @@
 </p>
 
 --
+
 Este proyecto forma parte del programa de formacion ONE (Oracle Next Education), el cual consiste en la creacion de un sistema de resarvas para almacenar los datos, haciendo uso del lenguaje Java.
 Las funcionalidades y logica utilizada se hizo para satisfacer las siguientes necesidades
--Tener un sistema de autenticacion para acceder al sistema
--Hacer un registro de reserva y un registro del huesped
--Calcular el valor de la estacia del huesped, el cual se puso de forma predeterminada en $40
--Buscar la informacion de los clientes en la base de datos 
--Actualizar la informacion ya registrada en base de datos 
--Eliminar registros de clientes 
+- Tener un sistema de autenticacion para acceder al sistema
+- Hacer un registro de reserva y un registro del huesped
+- Calcular el valor de la estacia del huesped, el cual se puso de forma predeterminada en $40
+- Buscar la informacion de los clientes en la base de datos 
+- Actualizar la informacion ya registrada en base de datos 
+- Eliminar registros de clientes 
+
+
 --
 
 ## 🖥️ Tecnologías Utilizadas:
